@@ -1,0 +1,1 @@
+{"uuid":"9dec0ad7-5964-43d1-accb-ac74c8ef2426","name":"autotests.BaseTest.open","children":["3a514e9c-d15d-49db-857a-1cadd1cf8e88"],"description":"","befores":[{"name":"open","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1723140524168,"stop":1723140525475}],"afters":[],"start":1723140524166,"stop":1723140525477}

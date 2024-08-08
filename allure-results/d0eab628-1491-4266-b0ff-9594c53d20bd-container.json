@@ -1,0 +1,1 @@
+{"uuid":"d0eab628-1491-4266-b0ff-9594c53d20bd","name":"ParallelTestSuite","children":["a37ffcd7-f0dd-41ab-b77b-e0a2100297a7"],"befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1723149427159,"stop":1723149427358}],"start":1723149416167,"stop":1723149427359}
