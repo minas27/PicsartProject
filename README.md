@@ -13,6 +13,7 @@ The test scenario is the following:
 9. Click on the “try now” button and verify that the editing screen opens with the image applied to the canvas.
 
 ## Instructions how to run the tests
+The project is in Maven archetype. Make sure you have all the dependencies from pom.xml file installed to be able to execute.
 Run each test method individually as running the whole test class results in an issue with accepting the cookies. After first test method, 
 the next 2 do not contain the cookie popup at the bottom.
 
